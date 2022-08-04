@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">My Simple Calculator</string>
+    <string name="char0">0</string>
+    <string name="char1">1</string>
+    <string name="char2">2</string>
+    <string name="char3">3</string>
+    <string name="char4">4</string>
+    <string name="char5">5</string>
+    <string name="char6">6</string>
+    <string name="char7">7</string>
+    <string name="char8">8</string>
+    <string name="char9">9</string>
+    <string name="charAdd">+</string>
+    <string name="charSubtract">-</string>
+    <string name="charDivide">/</string>
+    <string name="charMultiply">*</string>
+    <string name="charEqual">=</string>
+    <string name="charCLR">CLR</string>
+    <string name="charBKSP">BKSP</string>
+    <string name="dot">.</string>
 </resources>
